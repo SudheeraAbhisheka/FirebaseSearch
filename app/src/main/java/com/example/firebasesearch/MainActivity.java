@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     Map <String, Object> detailsOfEachDoctor = new HashMap<>();
     ArrayList<String> locations;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
